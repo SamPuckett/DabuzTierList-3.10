@@ -1,0 +1,462 @@
+/* Elements */
+
+body {
+    background-image: linear-gradient(to bottom, #8f4860, #8d4e6e, #89557b, #835c87, #7b6491, #716c9a, #67749f, #5e7ba3, #5584a4, #548ca2, #5a939e, #669999);
+}
+
+h1 {
+    color: rgba(255, 255, 255, .88);
+    font-weight: bold;
+    font-size: 4.2vw;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 1em;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 5vh;
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* Card */
+
+.card {
+    height: 160px;
+    width: 200px;
+    /* background-image: linear-gradient(rgba(256, 256, 256, 100), rgb(256, 128, 128)); */
+    box-shadow: 0 15px 35px 0 rgba(42, 51, 83, 0.12),
+        0 5px 15px rgba(0, 0, 0, 0.06);
+    transition: all .15s ease;
+    border-radius: .5rem;
+    display: inline-block;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.s {
+    background-color: #8F4860;
+}
+
+.a {
+    background-color: #855A83;
+}
+
+.b {
+    background-color: #6F6E9B;
+}
+
+.c {
+    background-color: #5A7FA4;
+}
+
+.d {
+    background-color: #558EA1;
+}
+
+.f {
+    background-color: #669999;
+}
+
+.w {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.clear {
+    background-color: rgb(88, 154, 171);
+}
+
+.card-bg {
+    background-position: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 0;
+    width: 100%;
+    padding-bottom: 60%;
+    border-radius: 0.5rem;
+    display: inline-block;
+}
+
+/*  */
+/* S Tier */
+/*  */
+
+.snake {
+    background-image: url(snake.png);
+}
+
+.joker {
+    background-image: url(joker.png);
+}
+
+.wolf {
+    background-image: url(wolf.png);
+}
+
+.lucina {
+    background-image: url(lucina.png);
+}
+
+.pikachu {
+    background-image: url(pikachu.png);
+}
+
+.zero-suit-samus {
+    background-image: url(zero-suit-samus.png);
+}
+
+.palutena {
+    background-image: url(palutena.png);
+}
+
+.peach {
+    background-image: url(peach.png);
+}
+
+.chrom {
+    background-image: url(chrom.png);
+}
+
+.inkling {
+    background-image: url(inkling.png);
+}
+
+.shulk {
+    background-image: url(shulk.png);
+}
+
+.ken {
+    background-image: url(ken.png);
+}
+
+/*  */
+/* A Tier */
+/*  */
+
+.roy {
+    background-image: url(roy.png);
+}
+
+.wario {
+    background-image: url(wario.png);
+}
+
+.ryu {
+    background-image: url(ryu.png);
+}
+
+.fox {
+    background-image: url(fox.png);
+}
+
+.pichu {
+    background-image: url(pichu.png);
+}
+
+.pacman {
+    background-image: url(pacman.png);
+}
+
+.mario {
+    background-image: url(mario.png);
+}
+
+.lucario {
+    background-image: url(lucario.png);
+}
+
+.greninja {
+    background-image: url(greninja.png);
+}
+
+.ike {
+    background-image: url(ike.png);
+}
+
+/*  */
+/* B Tier */
+/*  */
+
+.rob {
+    background-image: url(rob.png);
+}
+
+.megaman {
+    background-image: url(megaman.png);
+}
+
+.ness {
+    background-image: url(ness.png);
+}
+
+.yoshi {
+    background-image: url(yoshi.png);
+}
+
+.olimar {
+    background-image: url(olimar.png);
+}
+
+.link {
+    background-image: url(link.png);
+}
+
+.pokemon-trainer {
+    background-image: url(pokemon-trainer.png);
+}
+
+.wii-fit-trainer {
+    background-image: url(wii-fit-trainer.png);
+}
+
+.mr-game-and-watch {
+    background-image: url(mr-game-and-watch.png);
+}
+
+.luigi {
+    background-image: url(luigi.png);
+}
+
+.diddy-kong {
+    background-image: url(diddy-kong.png);
+}
+
+.bowser {
+    background-image: url(bowser.png);
+}
+
+/*  */
+/* C Tier */
+/*  */
+
+.bayonetta {
+    background-image: url(bayonetta.png);
+}
+
+.duck-hunt {
+    background-image: url(duck-hunt.png);
+}
+
+.sheik {
+    background-image: url(sheik.png);
+}
+
+.young-link {
+    background-image: url(young-link.png);
+}
+
+.richter {
+    background-image: url(richter.png);
+}
+
+.zelda {
+    background-image: url(zelda.png);
+}
+
+.cloud {
+    background-image: url(cloud.png);
+}
+
+.captain-falcon {
+    background-image: url(captain-falcon.png);
+}
+
+.falco {
+    background-image: url(falco.png);
+}
+
+.ice-climbers {
+    background-image: url(ice-climbers.png);
+}
+
+.donkey-kong {
+    background-image: url(donkey-kong.png);
+}
+
+.ganondorf {
+    background-image: url(ganondorf.png);
+}
+
+.robin {
+    background-image: url(robin.png);
+}
+
+.meta-knight {
+    background-image: url(meta-knight.png);
+}
+
+/*  */
+/* D Tier */
+/*  */
+
+.rosalina-and-luma {
+    background-image: url(rosalina-and-luma.png);
+}
+
+.toon-link {
+    background-image: url(toon-link.png);
+}
+
+.king-dedede {
+    background-image: url(king-dedede.png);
+}
+
+.inceneroar {
+    background-image: url(inceneroar.png);
+}
+
+.ridley {
+    background-image: url(ridley.png);
+}
+
+.sonic {
+    background-image: url(sonic.png);
+}
+
+.little-mac {
+    background-image: url(little-mac.png);
+}
+
+.lucas {
+    background-image: url(lucas.png);
+}
+
+.mewtwo {
+    background-image: url(mewtwo.png);
+}
+
+.dr-mario {
+    background-image: url(dr-mario.png);
+}
+
+.dark-samus {
+    background-image: url(dark-samus.png);
+}
+
+.samus {
+    background-image: url(samus.png);
+}
+
+.dark-pit {
+    background-image: url(dark-pit.png);
+}
+
+.pit {
+    background-image: url(pit.png);
+}
+
+.corrin {
+    background-image: url(corrin.png);
+}
+
+.villager {
+    background-image: url(villager.png);
+}
+
+/*  */
+/* F Tier */
+/*  */
+
+.bowser-jr {
+    background-image: url(bowser-jr.png);
+}
+
+.king-k-rool {
+    background-image: url(king-k-rool.png);
+}
+
+.jigglypuff {
+    background-image: url(jigglypuff.png);
+}
+
+.pirhana-plant {
+    background-image: url(pirhana-plant.png);
+}
+
+.isabelle {
+    background-image: url(isabelle.png);
+}
+
+.kirby {
+    background-image: url(kirby.png);
+}
+
+.card:hover {
+    transform: scale(0.95);
+    box-shadow: 0 20px 40px 0 rgba(42, 51, 83, 0.2),
+        0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.card-content {
+    font-family: 'Noto Sans', sans-serif;
+    padding: 0.25rem;
+    padding-left: 1.5rem;
+    display: inline-block;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1;
+}
+
+.card-title {
+    color: rgba(255, 255, 255, 0.8);
+    margin: 0 auto;
+    margin-bottom: 1rem;
+}
+
+.card-action {
+    text-decoration: none;
+    font-size: 14px;
+    color: #4e616c;
+}
+
+/* Classes */
+
+.sidenav {
+    height: 100%;
+    width: 65px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgba(255, 255, 255, 0.2);
+    overflow-x: hidden;
+    padding-top: 20px;
+    padding: 0 auto;
+    display: inline;
+    text-align: center;
+}
+
+@media (max-width: 750px) {
+    .sidenav {
+        width: 0px;
+    }
+}
+
+.sidenav a {
+    padding: 25px 0px 0px 0px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #fff;
+    display: block;
+}
+
+.sidenav a:hover {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.header {
+    width: 95%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container {
+    width: 85%;
+    margin: 0 auto;
+}
+
+/*  */
