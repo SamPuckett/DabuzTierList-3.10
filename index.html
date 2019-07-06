@@ -2,76 +2,104 @@
 <html>
 
 <head>
-    <title>Smash Bros Ultimate Tier List</title>
-    <!-- This imports index.css -->
-    <link rel="stylesheet" href="index.css">
-    <!-- This imports Open Sans and Open Sans Condensed from Google -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300&display=swap"
-        rel="stylesheet">
-    <!-- This imports the icons from google -->
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <script src="https://unpkg.com/scrollreveal@4"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hello Bulma!</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+    <link rel="stylesheet" href="character-cards.css">
 </head>
 
 <body>
 
-    <div class="sidenav">
-        <a href="#home"><i class="material-icons">home</i></a>
-        <a href="#search"><i class="material-icons">search</i></a>
-        <a href="#faq"><i class="material-icons">contact_support</i></a>
-        <a href="#contact"><i class="material-icons">perm_contact_calendar</i></a>
+    <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="https://bulma.io">
+                <strong>SMASH-LISTS</strong>
+            </a>
+
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false"
+                data-target="navbarBasicExample">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+
+        <div id="navbarBasicExample" class="navbar-menu">
+            <div class="navbar-start">
+                <a class="navbar-item" href="index.html">
+                    Home
+                </a>
+
+                <a class="navbar-item">
+                    Players
+                </a>
+
+                <div class="navbar-item has-dropdown is-hoverable">
+                    <a class="navbar-link">
+                        More
+                    </a>
+
+                    <div class="navbar-dropdown">
+                        <a class="navbar-item">
+                            About
+                        </a>
+                        <a class="navbar-item">
+                            Jobs
+                        </a>
+                        <a class="navbar-item">
+                            Contact
+                        </a>
+                        <hr class="navbar-divider">
+                        <a class="navbar-item">
+                            Report an issue
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container is-fluid" style="padding-top: 10px;">
+        <div class="is-size-1 has-text-centered">
+            Smash Bros. Ultimate Tier Lists
+        </div>
     </div>
 
-    <div class="header tagline">
-        <h1 class="headline">Smash Bros Ultimate Tier List</h1>
+    <div class="container is-fluid" style="padding-bottom: 20px;">
+        <div class="notification has-text-centered" style="padding: 10px;">
+            Professional Smash Bros. Ultimate Players
+        </div>
     </div>
+
     <div class="container">
-        <h2 class="tagline">Patch 3.10</h2>
-
-        <!-- Dabuz -->
         <a href="dabuz-310.html">
-            <div class="card tagline">
-                <div class="w card-bg rosalina-and-luma"></div>
-                <div class="card-content">
-                    <h3 class="card-title tagline">Dabuz</h3>
+            <div class="cc-card tagline">
+                <div class="w cc-card-bg olimar"></div>
+                <div class="cc-card-content">
+                    <h3 class="cc-card-title tagline" style="color:black;">Dabuz</h3>
                 </div>
             </div>
         </a>
-
-        <!-- ESAM -->
         <a href="esam-310.html">
-            <div class="card tagline">
-                <div class="w card-bg pikachu"></div>
-                <div class="card-content">
-                    <h3 class="card-title tagline">ESAM</h3>
+            <div class="cc-card tagline">
+                <div class="w cc-card-bg pikachu"></div>
+                <div class="cc-card-content">
+                    <h3 class="cc-card-title tagline" style="color:black;">Esam</h3>
                 </div>
             </div>
         </a>
-
-        <!-- M2K -->
         <a href="m2k-310.html">
-            <div class="card tagline">
-                <div class="w card-bg bowser"></div>
-                <div class="card-content">
-                    <h3 class="card-title tagline">Mew2King</h3>
+            <div class="cc-card tagline">
+                <div class="w cc-card-bg bowser"></div>
+                <div class="cc-card-content">
+                    <h3 class="cc-card-title tagline" style="color:black;">Mew2King</h3>
                 </div>
             </div>
         </a>
-
-        <h2 class="tagline">Patch 4.0</h2>
-
     </div>
-
-    <script>
-        ScrollReveal().reveal('.tagline', {
-            delay: 300
-        })
-    </script>
 
 </body>
-
-<footer>
-
-</footer>
 
 </html>
