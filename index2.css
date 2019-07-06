@@ -1,26 +1,30 @@
 /* Elements */
 
-body {
+/* body {
     background-image: linear-gradient(to bottom, #8f4860, #8d4e6e, #89557b, #835c87, #7b6491, #716c9a, #67749f, #5e7ba3, #5584a4, #548ca2, #5a939e, #669999);
-}
+} */
 
 h1 {
-    color: rgba(255, 255, 255, .88);
+    color: rgba(0, 0, 0, .88);
     font-weight: bold;
-    font-size: 3.5vw;
+    font-size: 4.2vw;
     text-transform: uppercase;
     font-family: 'Open Sans', sans-serif;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 h2 {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(0, 0, 0, 0.8);
     font-size: 1em;
     font-family: 'Open Sans', sans-serif;
     text-align: center;
     font-size: 5vh;
     background-color: rgba(0, 0, 0, 0.1);
-    padding: 10px;
+    padding: 5px;
     border-radius: 10px;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 /* Card */
@@ -396,7 +400,7 @@ h2 {
 }
 
 .card-content {
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     padding: 0.25rem;
     padding-left: 1.5rem;
     display: inline-block;
@@ -406,9 +410,10 @@ h2 {
 }
 
 .card-title {
-    color: rgba(255, 255, 255, 0.8);
-    margin: 0 auto;
-    margin-bottom: 1rem;
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 1.5rem;
+    padding-bottom: 10;
+    box-sizing: content-box;
 }
 
 .card-action {
@@ -421,7 +426,7 @@ h2 {
 
 .sidenav {
     height: 100%;
-    width: 5vw;
+    width: 65px;
     position: fixed;
     z-index: 1;
     top: 0;
@@ -434,7 +439,7 @@ h2 {
     text-align: center;
 }
 
-@media (max-width: 850px) {
+@media (max-width: 750px) {
     .sidenav {
         width: 0px;
     }
