@@ -83,6 +83,22 @@ h2 {
 /* S Tier */
 /*  */
 
+.dabuz {
+    background-image: url(https://i.ytimg.com/vi/OW7DYKT06YM/maxresdefault.jpg);
+}
+
+.esam {
+    background-image: url(https://cdn.shopify.com/s/files/1/1988/7207/articles/esamcover_1024x1024.png);
+}
+
+.m2k {
+    background-image: url(http://i0.wp.com/shoryuken.com/wp-content/uploads/2016/08/lolm2k.png);
+}
+
+.patch-310 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP9tvI1Y7O6EhYupEg2qSfR37ycXK_LP49lZVh1TyNW3ITDHBb);
+}
+
 .snake {
     background-image: url(snake.png);
 }
