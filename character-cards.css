@@ -33,7 +33,7 @@ h2 {
     border-radius: .5rem;
     display: inline-block;
     flex-direction: column;
-    margin: 2px;
+    margin: 0px;
     margin-bottom: 3px;
     margin-top: 3px;
 }
@@ -86,67 +86,67 @@ h2 {
 /*  */
 
 .dabuz {
-    background-image: url(https://i.ytimg.com/vi/OW7DYKT06YM/maxresdefault.jpg);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/c_thumb,w_200,g_face/v1562551825/maxresdefault_cc9jci.jpg);
 }
 
 .esam {
-    background-image: url(https://cdn.shopify.com/s/files/1/1988/7207/articles/esamcover_1024x1024.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/c_thumb,w_200,g_face/v1562551826/esamcover_1024x1024_qtzpmq.png);
 }
 
 .m2k {
-    background-image: url(http://i0.wp.com/shoryuken.com/wp-content/uploads/2016/08/lolm2k.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/c_thumb,w_200,g_face/v1562551825/lolm2k_ooodxt.png);
 }
 
 .patch-310 {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP9tvI1Y7O6EhYupEg2qSfR37ycXK_LP49lZVh1TyNW3ITDHBb);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/c_thumb,w_200,g_face/v1562551824/images_nlsswn.jpg);
 }
 
 .snake {
-    background-image: url(snake.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551750/snake_i7ut9c.png);
 }
 
 .joker {
-    background-image: url(joker.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551759/joker_dzaxao.png);
 }
 
 .wolf {
-    background-image: url(wolf.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551758/wolf_pf4o5p.png);
 }
 
 .lucina {
-    background-image: url(lucina.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551758/lucina_eydh4p.png);
 }
 
 .pikachu {
-    background-image: url(pikachu.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551758/pikachu_owiirg.png);
 }
 
 .zero-suit-samus {
-    background-image: url(zero-suit-samus.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551759/zero-suit-samus_fmakan.png);
 }
 
 .palutena {
-    background-image: url(palutena.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551758/palutena_g5bcla.png);
 }
 
 .peach {
-    background-image: url(peach.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551758/peach_k7ofh0.png);
 }
 
 .chrom {
-    background-image: url(chrom.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551758/chrom_s7ti9t.png);
 }
 
 .inkling {
-    background-image: url(inkling.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551758/inkling_zb8drc.png);
 }
 
 .shulk {
-    background-image: url(shulk.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551758/shulk_nyrinc.png);
 }
 
 .ken {
-    background-image: url(ken.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551758/ken_wwsfbs.png);
 }
 
 /*  */
@@ -154,43 +154,43 @@ h2 {
 /*  */
 
 .roy {
-    background-image: url(roy.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551757/roy_bnf0yl.png);
 }
 
 .wario {
-    background-image: url(wario.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551757/wario_yp4cyc.png);
 }
 
 .ryu {
-    background-image: url(ryu.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551757/ryu_qoruuz.png);
 }
 
 .fox {
-    background-image: url(fox.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551756/fox_ysduqp.png);
 }
 
 .pichu {
-    background-image: url(pichu.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551756/pichu_cm4nxu.png);
 }
 
 .pacman {
-    background-image: url(pacman.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551756/pacman_hueizx.png);
 }
 
 .mario {
-    background-image: url(mario.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551756/mario_fm1hsl.png);
 }
 
 .lucario {
-    background-image: url(lucario.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551756/lucario_r2qnjv.png);
 }
 
 .greninja {
-    background-image: url(greninja.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551756/greninja_wzc3v3.png);
 }
 
 .ike {
-    background-image: url(ike.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551755/ike_pl7emi.png);
 }
 
 /*  */
@@ -198,55 +198,55 @@ h2 {
 /*  */
 
 .rob {
-    background-image: url(rob.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551754/rob_cogawh.png);
 }
 
 .megaman {
-    background-image: url(megaman.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551754/megaman_fip5qe.png);
 }
 
 .ness {
-    background-image: url(ness.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551754/ness_c9greu.png);
 }
 
 .yoshi {
-    background-image: url(yoshi.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551755/yoshi_w0z2dm.png);
 }
 
 .olimar {
-    background-image: url(olimar.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551754/olimar_nny6f8.png);
 }
 
 .link {
-    background-image: url(link.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551754/link_xcgeqg.png);
 }
 
 .pokemon-trainer {
-    background-image: url(pokemon-trainer.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551753/pokemon-trainer_urdqhm.png);
 }
 
 .wii-fit-trainer {
-    background-image: url(wii-fit-trainer.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551754/wii-fit-trainer_ydx8sv.png);
 }
 
 .mr-game-and-watch {
-    background-image: url(mr-game-and-watch.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551753/mr-game-and-watch_jmzf8b.png);
 }
 
 .luigi {
-    background-image: url(luigi.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551753/luigi_qof2cv.png);
 }
 
 .diddy-kong {
-    background-image: url(diddy-kong.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551754/diddy-kong_eoplxw.png);
 }
 
 .bowser {
-    background-image: url(bowser.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551752/bowser_mp0cgy.png);
 }
 
 .marth {
-    background-image: url(marth.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551750/marth_r2jxgo.png);
 }
 
 /*  */
@@ -254,59 +254,59 @@ h2 {
 /*  */
 
 .bayonetta {
-    background-image: url(bayonetta.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551752/bayonetta_inbj8d.png);
 }
 
 .duck-hunt {
-    background-image: url(duck-hunt.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551752/duck-hunt_enpusx.png);
 }
 
 .sheik {
-    background-image: url(sheik.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551752/sheik_wcuhjf.png);
 }
 
 .young-link {
-    background-image: url(young-link.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551752/young-link_h7mxog.png);
 }
 
 .richter {
-    background-image: url(richter.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551753/richter_eejly0.png);
 }
 
 .zelda {
-    background-image: url(zelda.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551752/zelda_z8tvbe.png);
 }
 
 .cloud {
-    background-image: url(cloud.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551751/cloud_u6kv9s.png);
 }
 
 .captain-falcon {
-    background-image: url(captain-falcon.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551751/captain-falcon_hzofx2.png);
 }
 
 .falco {
-    background-image: url(falco.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551750/falco_ulcf2o.png);
 }
 
 .ice-climbers {
-    background-image: url(ice-climbers.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551750/ice-climbers_riyme2.png);
 }
 
 .donkey-kong {
-    background-image: url(donkey-kong.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551750/donkey-kong_uzqpf4.png);
 }
 
 .ganondorf {
-    background-image: url(ganondorf.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551750/ganondorf_s5ge9h.png);
 }
 
 .robin {
-    background-image: url(robin.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551751/robin_nksdgl.png);
 }
 
 .meta-knight {
-    background-image: url(meta-knight.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551750/meta-knight_ekshbv.png);
 }
 
 /*  */
@@ -314,67 +314,67 @@ h2 {
 /*  */
 
 .rosalina-and-luma {
-    background-image: url(rosalina-and-luma.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551757/rosalina-and-luma_ssgb3p.png);
 }
 
 .toon-link {
-    background-image: url(toon-link.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551757/toon-link_cnpice.png);
 }
 
 .king-dedede {
-    background-image: url(king-dedede.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551757/king-dedede_ujeo2e.png);
 }
 
 .inceneroar {
-    background-image: url(inceneroar.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551757/inceneroar_iwqona.png);
 }
 
 .ridley {
-    background-image: url(ridley.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551757/ridley_vsy8yp.png   );
 }
 
 .sonic {
-    background-image: url(sonic.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551756/sonic_nxd7p2.png);
 }
 
 .little-mac {
-    background-image: url(little-mac.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551756/little-mac_fuvz1b.png);
 }
 
 .lucas {
-    background-image: url(lucas.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551755/lucas_ucj5hq.png);
 }
 
 .mewtwo {
-    background-image: url(mewtwo.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551755/mewtwo_d2ouig.png);
 }
 
 .dr-mario {
-    background-image: url(dr-mario.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551756/dr-mario_uu9xus.png);
 }
 
 .dark-samus {
-    background-image: url(dark-samus.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551755/dark-samus_ea2zut.png);
 }
 
 .samus {
-    background-image: url(samus.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551752/samus_r4rlgl.png);
 }
 
 .dark-pit {
-    background-image: url(dark-pit.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551752/dark-pit_sgt0gm.png);
 }
 
 .pit {
-    background-image: url(pit.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551754/pit_jxuaq1.png);
 }
 
 .corrin {
-    background-image: url(corrin.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551752/corrin_emdatc.png);
 }
 
 .villager {
-    background-image: url(villager.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551751/villager_cfrots.png);
 }
 
 /*  */
@@ -382,27 +382,27 @@ h2 {
 /*  */
 
 .bowser-jr {
-    background-image: url(bowser-jr.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551751/bowser-jr_ts9fue.png);
 }
 
 .king-k-rool {
-    background-image: url(king-k-rool.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551751/king-k-rool_iptxrd.png);
 }
 
 .jigglypuff {
-    background-image: url(jigglypuff.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551751/jigglypuff_ceupj1.png);
 }
 
 .pirhana-plant {
-    background-image: url(pirhana-plant.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551751/pirhana-plant_aowpkj.png);
 }
 
 .isabelle {
-    background-image: url(isabelle.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551750/isabelle_bqwqnz.png);
 }
 
 .kirby {
-    background-image: url(kirby.png);
+    background-image: url(https://res.cloudinary.com/dnrbgmcm4/image/upload/v1562551751/kirby_ue8tke.png);
 }
 
 .cc-card:hover {
@@ -412,9 +412,7 @@ h2 {
 }
 
 .cc-card-content {
-    font-family: 'Noto Sans', sans-serif;
     padding: 0.25rem;
-    padding-left: 1.5rem;
     display: inline-block;
     flex-direction: column;
     justify-content: space-between;
@@ -422,7 +420,8 @@ h2 {
 }
 
 .cc-card-title {
-    color: rgba(255, 255, 255, 0.8);
+    color: rgba(0, 0, 0, 0.8);
+    font-weight: bold;
     margin: 0 auto;
     margin-bottom: 1rem;
 }
@@ -477,6 +476,19 @@ h2 {
 .container {
     width: 85%;
     margin: 0 auto;
+}
+
+div .notification.has-text-centered {
+    /* color: black;
+    font-weight: bold; */
+}
+
+.notification {
+    /* background-color: rgba(0, 0, 0, 0.1); */
+    width: 94%;
+    margin: 0 auto;
+    text-align: center;
+    /* font-size: 3rem; */
 }
 
 /*  */
