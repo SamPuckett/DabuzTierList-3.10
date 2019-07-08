@@ -449,9 +449,10 @@ h2 {
     text-align: center;
 }
 
-@media (max-width: 850px) {
-    .sidenav {
-        width: 0px;
+@media (max-width: 800px) {
+    .cc-card {
+        height: 20vw;
+        width: 20vw;
     }
 }
 
