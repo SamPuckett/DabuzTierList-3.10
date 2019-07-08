@@ -412,7 +412,7 @@ h2 {
 }
 
 .cc-card-content {
-    padding: 0.25rem;
+    /* padding: 0.25rem; */
     display: inline-block;
     flex-direction: column;
     justify-content: space-between;
@@ -453,6 +453,14 @@ h2 {
     .cc-card {
         height: 20vw;
         width: 20vw;
+    }
+
+    .cc-card-title {
+        width: 19vw;
+        font-size: 0.75rem;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
     }
 }
 
