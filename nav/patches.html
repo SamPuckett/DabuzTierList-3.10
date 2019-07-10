@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hello Bulma!</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+    <link rel="stylesheet" href="/css/character-cards.css">
+</head>
+
+<body>
+
+    <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="/index.html">
+                <strong>SMASH-LISTS</strong>
+            </a>
+
+            <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false"
+                data-target="navbarBasicExample">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+
+        <div id="navbarBasicExample" class="navbar-menu">
+            <div class="navbar-start">
+                <a class="navbar-item" href="/nav/recent.html">
+                    Recent Lists
+                </a>
+
+                <a class="navbar-item" href="/nav/players.html">
+                    Players
+                </a>
+
+                <a class="navbar-item" href="/nav/patches.html">
+                    Patches
+                </a>
+            </div>
+    </nav>
+
+    <div class="container is-fluid" style="padding-bottom: 20px; margin: 0 auto;">
+        <div class="is-size-1 has-text-centered" style="padding: 10px;">
+            Patches
+        </div>
+    </div>
+
+    <div class="container is-fluid" style="padding-bottom: 20px; margin: 0 auto;">
+        <div class="notification has-text-centered" style="padding: 10px;">
+            Patch Versions
+        </div>
+    </div>
+
+    <div class="container" style="text-align: center;">
+
+        <a href="/patches/310.html">
+            <div class="cc-card tagline">
+                <div class="w cc-card-bg patch-310">
+                </div>
+                <div class="cc-card-content">
+                    <h3 class="cc-card-title tagline" style="color:black;">Patch 3.10</h3>
+                </div>
+            </div>
+        </a>
+
+    </div>
+
+    <script src="/js/burger-menu.js"></script>
+
+</body>
+
+</html>
